@@ -66,6 +66,7 @@ Get started
    modules.rst
    demos.rst
    examples.rst
+   american_poker_engine_spec.rst
 
 Indices and tables
 ==================
