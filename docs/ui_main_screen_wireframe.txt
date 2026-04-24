@@ -1,0 +1,22 @@
++------------------------------------------------------------------------------------------------------------------+
+| Turn 37/100 | Stage: Mid Mandate | [Cycle Progress] | Country Tension | Gov Stability | Protest Demand | Crisis % |
+| Tabs: Overview | Party | Society | Coalition | Campaign                                                          |
++------------------------------------------------------------------------------------------------------------------+
+|                                   SAEIMA (100) / Coalition: 56 -> Majority holds                               |
+|                                  [semicircle seats by party color + stress outlines]                           |
++-----------------------------------------+-----------------------------------------------+-----------------------+
+| Latvia Map (5 districts)                | Public Agenda Pulse                            | PARTY PANEL           |
+| [Influence/Support/Network/Turnout...]  | Economy      Temp: High  Ctrl: X  Fit: Mid     | Name + Leader         |
+|                                         | Security    Temp: Mid   Ctrl: Y  Fit: Low     | Status + Rating       |
+|                                         | Identity    Temp: High  Ctrl: Z  Fit: Low     | Mandates + Trend      |
+|                                         | Welfare     Temp: Mid   Ctrl: P  Fit: High    | Coalition Value       |
+|                                         | Corruption  Temp: Mid   Ctrl: O  Fit: Mid     | 10 Resource bars      |
+|                                         | Regions     Temp: High  Ctrl: A  Fit: High    | Warnings/Opportunities|
++-----------------------------------------+-----------------------------------------------+-----------------------+
+| ELECTORAL SEGMENTS (7 cards)                                                                    | Portfolios/Targets   |
+| [Pro-EU Urban][Regional Pragmatic][National Mobilized][Russophone Urban][Protest][Youth][Non-voters]            |
+| each: your strength | segment size | growth potential | trend                                                   |
++------------------------------------------------------------------------------------------------------------------+
+| Events feed: [Transport minister under pressure] [Budget coalition conflict] [Protest rising in Kurzeme] ...   |
+| Actions now: [Push Reform] [Hold Coalition] [Attack Minister] [Regional Work] [Grow New Face]                  |
++------------------------------------------------------------------------------------------------------------------+
